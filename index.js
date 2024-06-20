@@ -1,4 +1,4 @@
-import { KEY } from "./text.js";
+import { KEY } from "./text.txt";
 
 
 console.log(KEY)
